@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamMidterm</string>
+    <string name="main_text">Todo List</string>
+    <string name="addNew">Add New</string>
+    <string name="titleadd">Add New Activity</string>
+    <string name="title_activity_add_new">AddNewActivity</string>
+</resources>
